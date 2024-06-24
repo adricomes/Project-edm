@@ -2,7 +2,7 @@
 
 A simple Streamlit app that draws a spiral. 
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://basic-template.streamlit.app/)
+[![Open in Streamlit](https://crispy-palm-tree-q797v7gv9jjj34p7w-8501.app.github.dev/)]
 
 ### How to run it on your own machine
 
