@@ -2,7 +2,7 @@
 
 A simple Streamlit app that draws a spiral. 
 
-[![Open in Streamlit](https://crispy-palm-tree-q797v7gv9jjj34p7w-8501.app.github.dev/)]
+[![Open in Streamlit](http://172.173.202.136:8501]
 
 ### How to run it on your own machine
 
