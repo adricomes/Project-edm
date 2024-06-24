@@ -1,6 +1,6 @@
 # 🌀 Spiral template
 
-A simple Streamlit app that draws a spiral. 
+A simple Streamlit app that draws a spirall. 
 
 [![Open in Streamlit](https://crispy-palm-tree-q797v7gv9jjj34p7w-8501.app.github.dev/)]
 
